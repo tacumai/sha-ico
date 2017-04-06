@@ -1,5 +1,7 @@
 require "sha_ico/version"
 
 module ShaIco
-  # Your code goes here...
+  def self.greet
+    "ｼｬｰｲｺ!!"
+  end
 end
