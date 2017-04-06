@@ -21,8 +21,12 @@ Or install it yourself as:
     $ gem install sha_ico
 
 ## Usage
+```
+require 'sha_ico'
 
-TODO: Write usage instructions here
+result = ShaIco.greet
+puts result  # => "ｼｬｰｲｺ!!"
+```
 
 ## Development
 
